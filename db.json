@@ -1,0 +1,150 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "sports",
+      "description": "Nisi magni odit consequatur autem nulla dolorem",
+      "autherName": "Allisa Mayer",
+      "date": "Jun 5, 2022",
+      "imgblog": "http://localhost:4200/assets/img/blog/blog-2.jpg",
+      "imgAuther": "http://localhost:4200/assets/img/blog/blog-author-2.jpg"
+    },
+    {
+      "title": "web development",
+      "description": "full stack web development",
+      "date": "2023-11-18",
+      "imgblog": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699401600&semt=ais",
+      "imgAuther": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699401600&semt=ais",
+      "autherName": "ABDELQADER",
+      "id": 2
+    }
+  ],
+  "loginUser": [
+    {
+      "id": 1,
+      "Username": "apdo",
+      "password": "Tarek@1234"
+    },
+    {
+      "gender": "mail",
+      "Username": "abdo",
+      "email": "apdoarek@gmail.com",
+      "password": "12345",
+      "dateOfBirth": "2023-11-30",
+      "id": 2
+    }
+  ],
+  "loginAdmin": [
+    {
+      "UsernameAdmin": "ABDO",
+      "passwordAdmin": "10013288"
+    }
+  ],
+  "CreateBooks": [
+    {
+      "ImgBooks": "assets/ItemSlider/images/The_Count_of_Monte_Cristo-Alexandre_Dumas.jpg",
+      "TitleBooks": "The_Count_of_Monte_Cristo",
+      "Description": " Alexandre Dumas.\n",
+      "PriceBooks": "500 ج",
+      "id": 2
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/The_Merchant_of_Venice.jpg",
+      "TitleBooks": "The_Merchant_of_Venice",
+      "Description": "William Shakespeare",
+      "PriceBooks": "200 ج ",
+      "id": 5
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/كفاح طيبه.jpg",
+      "TitleBooks": "كفاح طيبه",
+      "Description": "نجيب محفوظ",
+      "PriceBooks": "100 ج",
+      "id": 6
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/قرية_ظالمة_(رواية).jpg",
+      "TitleBooks": "قريه ظالمه",
+      "Description": "محمد كامل حسين",
+      "PriceBooks": "90 ج",
+      "id": 7
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/0001166378.jpg",
+      "TitleBooks": "قصص اعجبت طلابي",
+      "Description": "سعد سعود الكريباني",
+      "PriceBooks": "200 ج",
+      "id": 8
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/insight_publica_book791_image_1_.4637331-jpg",
+      "TitleBooks": "Romeo & juliet",
+      "Description": "William Shakespeare",
+      "PriceBooks": "300 ج",
+      "id": 9
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/81c-trZLhXL._AC_UF1000,1000_QL80_.jpg",
+      "TitleBooks": "بين القصرين",
+      "Description": "نجيب محفوظ",
+      "PriceBooks": "200 ج",
+      "id": 10
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/image.jpg",
+      "TitleBooks": "1",
+      "Description": "1",
+      "PriceBooks": "1",
+      "id": 11
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/download.jpg",
+      "TitleBooks": "1",
+      "Description": "1",
+      "PriceBooks": "1",
+      "id": 12
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/1488034931.jpg",
+      "TitleBooks": "1",
+      "Description": "1",
+      "PriceBooks": "1",
+      "id": 13
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/71K3a5nGdQL._AC_UF894,1000_QL80_.jpg",
+      "TitleBooks": "1",
+      "Description": "1",
+      "PriceBooks": "1",
+      "id": 14
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/1583850929.jpg",
+      "TitleBooks": "1",
+      "Description": "1",
+      "PriceBooks": "1",
+      "id": 15
+    },
+    {
+      "ImgBooks": "https://www.noor-book.com/publice/covers_cache_jpg/13/8/6/4/b84aaf6e03864affe1b39c94db1edf66.png.jpg",
+      "TitleBooks": "ارض الاله",
+      "Description": "احمد مراد",
+      "PriceBooks": "50 ج",
+      "id": 16
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/main.jpg",
+      "TitleBooks": "1",
+      "Description": "1",
+      "PriceBooks": "1",
+      "id": 17
+    },
+    {
+      "ImgBooks": "assets/ItemSlider/images/A_Tale_of_Two_Cities.jpg",
+      "TitleBooks": "1",
+      "Description": "1",
+      "PriceBooks": "1",
+      "id": 18
+    }
+  ]
+}
